@@ -1,3 +1,3 @@
-simple handcricket game with Java Script
+simple handcricket game with Java Script,HTML and CSS
 
 ![](handcricket.gif)
